@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Currency Conversion</string>
+    <string-array name="currencies1">
+        <item>VND</item>
+        <item>USD</item>
+        <item>EUR</item>
+        <item>SGD</item>
+        <item>CAD</item>
+        <item>AUD</item>
+        <item>HKD</item>
+        <item>JPY</item>
+        <item>GBP</item>
+        <item>RUB</item>
+        <item>BTC</item>
+        <item>THB</item>
+    </string-array>
+
+    <string-array name="currencies2">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>SGD</item>
+        <item>CAD</item>
+        <item>AUD</item>
+        <item>HKD</item>
+        <item>JPY</item>
+        <item>GBP</item>
+        <item>RUB</item>
+        <item>BTC</item>
+        <item>THB</item>
+        <item>VND</item>
+    </string-array>
+</resources>
